@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Test_4 {
-  public static void main(String[] args){
+  public static void main(String[] args) throws java.lang.Exception {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
           String input ;
           ArrayList<Integer> arr = new ArrayList<>();
